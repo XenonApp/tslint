@@ -1,0 +1,27 @@
+{
+  "name": "xenon-tslint",
+  "version": "0.0.0",
+  "description": "TSLint package for Xenon.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XenonApp/tslint.git"
+  },
+  "keywords": [
+    "xenon",
+    "xenon-package"
+  ],
+  "author": "Andrew Stephan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XenonApp/tslint/issues"
+  },
+  "homepage": "https://github.com/XenonApp/tslint#readme",
+  "dependencies": {
+    "tslint": "^4.5.1",
+    "typescript": "^2.2.1"
+  }
+}
