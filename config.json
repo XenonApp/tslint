@@ -16,6 +16,23 @@
                     "Tools:Check"
                 ]
             }
+        },
+        "tsx": {
+            "commands": {
+                "Tools:Check": {
+                    "fn": "check",
+                    "inputs": {
+                        "text": true
+                    },
+                    "sandbox": "check"
+                }
+            },
+
+            "handlers": {
+                "check": [
+                    "Tools:Check"
+                ]
+            }
         }
     }
 }
